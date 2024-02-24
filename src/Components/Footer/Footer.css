@@ -1,0 +1,37 @@
+.footer{
+    text-align: center;
+    margin : 10px 0px 10px 0px;
+    background-color: rgb(226, 230, 233);
+}
+.upper-content img{
+margin-left: 550px;
+margin-top: 20px;
+}
+.upper-content p{
+    height: 23px;
+    width: 130px;
+    float: right;
+    margin: 80px 550px 0px 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    padding: 0px;
+    margin: 16px 0px 16px 400px;
+}
+.nav li{
+    list-style: none;
+    margin: 20px;
+    text-decoration: none;
+
+}
+
+.nav a {
+    text-decoration: none;
+    color:black;
+    margin: 0px 10px;
+  }
+
+.content-lower img{
+    margin: 10px;
+}

@@ -1,0 +1,23 @@
+.newsletter{
+text-align: center;
+background-color: white;
+margin: 100px;
+}
+.content{
+background: linear-gradient(to bottom, #fce2e8 0%, #fafafa 100%);
+margin: 0px;
+padding: 50px 0px 25px 0px;
+}
+.lowercontent input{
+width: 250px;
+height: 25px;
+}
+
+
+.lowercontent button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius:15px ;
+}

@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 50px 70px;
+}
+.left{
+    width: 10%;
+}
+.left img{
+    height:7%;
+    display:block;
+    padding: 10px 0px;
+
+} 
+.middle{
+    width: 60%;
+
+}
+.middle img{
+    height: 31%;
+    padding: 10px 0px;
+
+}
